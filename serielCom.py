@@ -41,7 +41,7 @@ def direct(drt):
 
 
 
-steer(10)
+#steer(10)
         
 
 
